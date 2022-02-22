@@ -14,4 +14,4 @@ Description of the project.
 
 **Skills**: feature engineering, clustering, missing data imputation, tidyverse
 
-[Notebook](http://www.google.com){: .btn}   [Github](http://www.google.com){: .btn}
+[Notebook](http://www.google.com) &nbsp; &nbsp; &nbsp; [Github Repo](http://www.google.com)
